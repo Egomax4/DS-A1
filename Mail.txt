@@ -1,0 +1,38 @@
+Dear DS_TEAM_2,
+
+This email contains the RCE cluster login details allocated to your team for the course CS3.401 (Distributed Systems).
+
+Team Details
+Team Name: DS_TEAM_2
+Member 1: Anirudh Vempati (2022101026)
+Member 2: Rijul Saigal (2022114001)
+
+RCE Login Credentials (Shared by Team)
+Hostname: rce.iiit.ac.in
+Username: cs3401.35
+Password: iWOoE9Xv
+
+Login Command
+ssh cs3401.35@rce.iiit.ac.in
+
+Cluster Usage Details
+Scheduler: SLURM
+Partition: debug
+Max CPUs per job: 8
+Walltime limit: 10 minutes
+Concurrent jobs per user: 1
+
+Important Instructions
+• This account is shared between both team members.
+• Do NOT change the password.
+• Do NOT share credentials outside your team.
+• Use the cluster strictly for CS3.401 coursework.
+• Misuse may lead to immediate revocation of access.
+
+Further instructions on running SLURM jobs will be shared separately.
+
+If there is any issue with login, please contact the course TA(Kushagra Trivedi) with your team name and username.
+
+Regards,
+Kushagra Trivedi
+IIIT Hyderabad
