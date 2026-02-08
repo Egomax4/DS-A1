@@ -1,0 +1,1000 @@
+doc1	cherry eats falcon quickly
+doc2	cherry targets elephant silently
+doc3	elephant eats banana at scale
+doc4	apple analyzes elephant in the cloud
+doc5	falcon analyzes cherry at scale
+doc6	apple process banana using python
+doc7	apple targets banana silently
+doc8	data finds apple using python
+doc9	cherry finds cherry at scale
+doc10	elephant eats apple using python
+doc11	apple finds elephant quickly
+doc12	cherry analyzes falcon quickly
+doc13	banana finds apple quickly
+doc14	cherry analyzes banana in the cloud
+doc15	apple analyzes elephant in the cloud
+doc16	falcon eats cherry quickly
+doc17	data analyzes banana in the cloud
+doc18	data process apple silently
+doc19	banana eats falcon silently
+doc20	data analyzes falcon quickly
+doc21	elephant finds elephant using python
+doc22	apple eats elephant at scale
+doc23	data process data in the cloud
+doc24	apple targets data in the cloud
+doc25	apple eats falcon in the cloud
+doc26	cherry targets data at scale
+doc27	cherry eats banana using python
+doc28	elephant eats banana silently
+doc29	falcon process cherry at scale
+doc30	apple eats data at scale
+doc31	elephant eats cherry quickly
+doc32	data analyzes data at scale
+doc33	data analyzes banana quickly
+doc34	cherry finds data quickly
+doc35	elephant analyzes data silently
+doc36	apple analyzes cherry using python
+doc37	falcon process falcon quickly
+doc38	elephant targets falcon at scale
+doc39	falcon analyzes cherry quickly
+doc40	falcon finds cherry using python
+doc41	banana process elephant at scale
+doc42	apple process elephant at scale
+doc43	cherry finds data at scale
+doc44	apple targets cherry in the cloud
+doc45	data finds cherry in the cloud
+doc46	elephant eats apple at scale
+doc47	falcon analyzes banana using python
+doc48	elephant finds banana silently
+doc49	elephant targets banana in the cloud
+doc50	data analyzes cherry using python
+doc51	elephant eats falcon quickly
+doc52	falcon finds elephant using python
+doc53	cherry analyzes data using python
+doc54	cherry finds data at scale
+doc55	banana analyzes cherry at scale
+doc56	elephant targets banana using python
+doc57	apple targets banana quickly
+doc58	elephant analyzes elephant quickly
+doc59	elephant process banana quickly
+doc60	falcon eats elephant silently
+doc61	banana eats cherry using python
+doc62	data process elephant in the cloud
+doc63	falcon eats elephant using python
+doc64	cherry finds cherry at scale
+doc65	cherry targets cherry at scale
+doc66	data analyzes cherry silently
+doc67	falcon process apple using python
+doc68	data finds data in the cloud
+doc69	falcon eats apple using python
+doc70	apple eats data in the cloud
+doc71	apple finds falcon at scale
+doc72	data eats falcon at scale
+doc73	data finds cherry at scale
+doc74	elephant analyzes falcon at scale
+doc75	data process cherry in the cloud
+doc76	cherry eats apple quickly
+doc77	apple analyzes data silently
+doc78	cherry finds banana using python
+doc79	banana analyzes data silently
+doc80	data analyzes cherry quickly
+doc81	apple finds data silently
+doc82	elephant analyzes banana silently
+doc83	elephant targets data quickly
+doc84	banana finds falcon silently
+doc85	data targets data using python
+doc86	apple process apple at scale
+doc87	apple analyzes falcon quickly
+doc88	elephant process falcon silently
+doc89	banana eats banana silently
+doc90	banana finds data at scale
+doc91	apple targets elephant at scale
+doc92	elephant analyzes falcon at scale
+doc93	elephant finds cherry at scale
+doc94	apple process cherry using python
+doc95	cherry analyzes banana in the cloud
+doc96	data targets elephant using python
+doc97	data targets data using python
+doc98	banana targets apple quickly
+doc99	apple process data using python
+doc100	elephant analyzes elephant at scale
+doc101	elephant finds apple quickly
+doc102	banana process cherry using python
+doc103	banana targets data quickly
+doc104	elephant process apple quickly
+doc105	elephant process falcon in the cloud
+doc106	elephant analyzes falcon quickly
+doc107	apple process banana at scale
+doc108	cherry finds banana using python
+doc109	elephant process elephant using python
+doc110	data analyzes data quickly
+doc111	cherry eats banana silently
+doc112	data analyzes banana silently
+doc113	banana process cherry silently
+doc114	elephant analyzes falcon silently
+doc115	elephant analyzes elephant silently
+doc116	data targets elephant quickly
+doc117	apple analyzes banana quickly
+doc118	cherry eats apple at scale
+doc119	cherry process elephant using python
+doc120	falcon targets falcon quickly
+doc121	cherry analyzes data quickly
+doc122	elephant analyzes banana using python
+doc123	falcon eats falcon at scale
+doc124	apple eats banana at scale
+doc125	apple finds falcon quickly
+doc126	apple process data in the cloud
+doc127	cherry eats apple in the cloud
+doc128	data process elephant silently
+doc129	cherry targets elephant quickly
+doc130	data process banana at scale
+doc131	falcon analyzes elephant quickly
+doc132	apple eats data silently
+doc133	falcon analyzes apple at scale
+doc134	banana finds elephant quickly
+doc135	data process elephant silently
+doc136	data analyzes falcon using python
+doc137	cherry process data silently
+doc138	data targets cherry silently
+doc139	banana targets cherry using python
+doc140	elephant analyzes falcon in the cloud
+doc141	banana finds data silently
+doc142	data process falcon in the cloud
+doc143	falcon eats falcon silently
+doc144	falcon eats apple using python
+doc145	apple eats falcon at scale
+doc146	apple finds apple at scale
+doc147	banana analyzes falcon quickly
+doc148	banana analyzes banana at scale
+doc149	apple finds apple using python
+doc150	cherry analyzes banana silently
+doc151	falcon analyzes data silently
+doc152	falcon targets elephant silently
+doc153	elephant process cherry in the cloud
+doc154	banana targets elephant using python
+doc155	cherry finds cherry in the cloud
+doc156	banana eats banana in the cloud
+doc157	elephant eats falcon at scale
+doc158	apple process elephant at scale
+doc159	falcon process falcon using python
+doc160	apple analyzes falcon silently
+doc161	banana finds banana in the cloud
+doc162	data finds cherry silently
+doc163	apple targets falcon using python
+doc164	apple process falcon silently
+doc165	elephant eats banana quickly
+doc166	data process falcon silently
+doc167	data targets elephant in the cloud
+doc168	data finds banana silently
+doc169	banana eats banana at scale
+doc170	banana eats elephant using python
+doc171	apple finds banana in the cloud
+doc172	elephant finds cherry silently
+doc173	apple finds cherry using python
+doc174	cherry targets apple in the cloud
+doc175	banana analyzes data at scale
+doc176	cherry eats data silently
+doc177	data targets data quickly
+doc178	falcon process apple using python
+doc179	falcon targets apple silently
+doc180	cherry finds data at scale
+doc181	falcon targets elephant using python
+doc182	cherry finds data in the cloud
+doc183	elephant analyzes apple quickly
+doc184	cherry finds elephant using python
+doc185	elephant eats data in the cloud
+doc186	cherry eats apple silently
+doc187	elephant process apple silently
+doc188	cherry eats apple using python
+doc189	data analyzes banana silently
+doc190	apple finds falcon silently
+doc191	elephant process elephant in the cloud
+doc192	data targets cherry using python
+doc193	elephant eats cherry quickly
+doc194	falcon analyzes elephant using python
+doc195	banana eats cherry using python
+doc196	banana process apple quickly
+doc197	falcon finds banana at scale
+doc198	banana process elephant silently
+doc199	falcon eats falcon in the cloud
+doc200	cherry process cherry using python
+doc201	elephant analyzes falcon in the cloud
+doc202	data eats cherry at scale
+doc203	banana analyzes apple using python
+doc204	elephant analyzes apple using python
+doc205	cherry eats cherry silently
+doc206	cherry process elephant using python
+doc207	apple targets cherry using python
+doc208	apple process apple quickly
+doc209	apple targets falcon in the cloud
+doc210	falcon targets cherry using python
+doc211	falcon eats cherry quickly
+doc212	cherry process apple quickly
+doc213	cherry analyzes apple using python
+doc214	banana targets banana silently
+doc215	elephant analyzes banana using python
+doc216	cherry process apple in the cloud
+doc217	elephant finds data at scale
+doc218	falcon finds cherry using python
+doc219	elephant process apple in the cloud
+doc220	banana process banana silently
+doc221	banana targets elephant quickly
+doc222	apple targets apple using python
+doc223	data process banana silently
+doc224	cherry targets banana quickly
+doc225	data eats elephant quickly
+doc226	apple process apple quickly
+doc227	data targets falcon in the cloud
+doc228	elephant eats elephant silently
+doc229	falcon targets data quickly
+doc230	elephant targets data silently
+doc231	apple targets elephant silently
+doc232	apple process apple quickly
+doc233	cherry finds cherry silently
+doc234	data finds banana silently
+doc235	apple eats cherry at scale
+doc236	falcon eats apple in the cloud
+doc237	banana finds cherry in the cloud
+doc238	falcon eats cherry using python
+doc239	elephant analyzes data using python
+doc240	data finds falcon at scale
+doc241	elephant finds cherry silently
+doc242	data process cherry at scale
+doc243	falcon analyzes elephant using python
+doc244	banana targets elephant using python
+doc245	banana analyzes data silently
+doc246	data eats data quickly
+doc247	elephant analyzes data at scale
+doc248	banana targets cherry using python
+doc249	cherry finds banana silently
+doc250	falcon eats apple quickly
+doc251	apple eats data using python
+doc252	data finds cherry using python
+doc253	elephant finds elephant quickly
+doc254	apple analyzes cherry using python
+doc255	elephant process cherry in the cloud
+doc256	elephant eats falcon silently
+doc257	data process cherry at scale
+doc258	elephant process banana silently
+doc259	data process falcon in the cloud
+doc260	cherry eats apple at scale
+doc261	falcon analyzes elephant silently
+doc262	data targets data in the cloud
+doc263	apple process data quickly
+doc264	cherry targets falcon using python
+doc265	data process falcon silently
+doc266	banana eats elephant silently
+doc267	data finds elephant in the cloud
+doc268	cherry finds banana silently
+doc269	elephant eats falcon in the cloud
+doc270	elephant analyzes cherry at scale
+doc271	data targets data using python
+doc272	cherry finds apple quickly
+doc273	falcon analyzes apple using python
+doc274	banana eats data silently
+doc275	banana targets elephant silently
+doc276	elephant targets cherry using python
+doc277	elephant targets elephant silently
+doc278	apple analyzes data at scale
+doc279	apple analyzes cherry in the cloud
+doc280	apple analyzes cherry quickly
+doc281	cherry analyzes falcon using python
+doc282	data finds cherry using python
+doc283	apple targets apple in the cloud
+doc284	elephant finds elephant at scale
+doc285	banana process apple at scale
+doc286	apple targets falcon at scale
+doc287	data eats apple at scale
+doc288	elephant finds data at scale
+doc289	falcon targets apple using python
+doc290	data eats data in the cloud
+doc291	cherry eats apple in the cloud
+doc292	falcon eats falcon quickly
+doc293	banana targets banana in the cloud
+doc294	falcon finds banana silently
+doc295	cherry targets banana in the cloud
+doc296	cherry analyzes falcon silently
+doc297	falcon finds data in the cloud
+doc298	elephant analyzes elephant silently
+doc299	cherry eats banana in the cloud
+doc300	banana eats elephant using python
+doc301	banana finds apple in the cloud
+doc302	data process elephant in the cloud
+doc303	elephant process cherry at scale
+doc304	falcon finds banana quickly
+doc305	cherry targets apple quickly
+doc306	elephant process data using python
+doc307	elephant eats cherry at scale
+doc308	apple process data silently
+doc309	banana targets banana silently
+doc310	elephant eats falcon using python
+doc311	falcon finds cherry in the cloud
+doc312	apple eats banana in the cloud
+doc313	data finds elephant using python
+doc314	apple finds banana in the cloud
+doc315	cherry eats falcon silently
+doc316	cherry eats apple silently
+doc317	elephant analyzes apple using python
+doc318	apple analyzes falcon in the cloud
+doc319	elephant finds cherry quickly
+doc320	banana finds falcon in the cloud
+doc321	data process data quickly
+doc322	apple analyzes cherry silently
+doc323	apple finds data in the cloud
+doc324	banana finds cherry silently
+doc325	elephant eats banana silently
+doc326	cherry finds elephant silently
+doc327	elephant analyzes banana in the cloud
+doc328	falcon finds elephant using python
+doc329	elephant eats elephant quickly
+doc330	apple targets data in the cloud
+doc331	cherry finds cherry silently
+doc332	falcon process cherry using python
+doc333	data process falcon using python
+doc334	apple process banana in the cloud
+doc335	banana process falcon at scale
+doc336	data targets apple in the cloud
+doc337	data finds apple at scale
+doc338	data finds falcon quickly
+doc339	falcon finds apple in the cloud
+doc340	cherry process banana quickly
+doc341	banana eats banana in the cloud
+doc342	cherry eats apple at scale
+doc343	data finds elephant in the cloud
+doc344	data eats falcon in the cloud
+doc345	elephant eats falcon quickly
+doc346	data analyzes apple quickly
+doc347	falcon targets elephant quickly
+doc348	data targets falcon silently
+doc349	elephant finds cherry quickly
+doc350	data eats banana in the cloud
+doc351	elephant targets cherry in the cloud
+doc352	data process falcon using python
+doc353	banana eats apple silently
+doc354	falcon finds apple using python
+doc355	cherry eats elephant using python
+doc356	falcon targets elephant quickly
+doc357	apple process banana silently
+doc358	apple finds apple in the cloud
+doc359	banana targets elephant quickly
+doc360	apple eats banana silently
+doc361	apple analyzes elephant at scale
+doc362	elephant eats apple in the cloud
+doc363	data eats falcon silently
+doc364	apple analyzes cherry at scale
+doc365	falcon eats apple quickly
+doc366	falcon eats cherry at scale
+doc367	banana finds apple using python
+doc368	apple finds data silently
+doc369	data eats elephant in the cloud
+doc370	banana targets banana using python
+doc371	data targets apple silently
+doc372	apple process elephant quickly
+doc373	apple finds falcon using python
+doc374	apple eats falcon using python
+doc375	data analyzes data silently
+doc376	banana process banana in the cloud
+doc377	data analyzes falcon silently
+doc378	data finds banana at scale
+doc379	elephant eats apple at scale
+doc380	data finds banana in the cloud
+doc381	banana finds banana using python
+doc382	apple analyzes banana using python
+doc383	data finds banana silently
+doc384	data eats banana at scale
+doc385	data targets elephant quickly
+doc386	apple analyzes falcon silently
+doc387	falcon targets data silently
+doc388	cherry targets banana quickly
+doc389	banana analyzes cherry in the cloud
+doc390	falcon process data at scale
+doc391	banana finds apple silently
+doc392	banana finds elephant at scale
+doc393	banana targets cherry silently
+doc394	falcon eats banana silently
+doc395	falcon analyzes cherry silently
+doc396	elephant process apple quickly
+doc397	banana targets falcon at scale
+doc398	cherry process elephant quickly
+doc399	data targets falcon in the cloud
+doc400	apple targets cherry quickly
+doc401	cherry process apple using python
+doc402	elephant eats data at scale
+doc403	cherry finds cherry quickly
+doc404	falcon analyzes data quickly
+doc405	falcon targets elephant in the cloud
+doc406	elephant finds banana at scale
+doc407	banana eats falcon at scale
+doc408	cherry process falcon quickly
+doc409	cherry analyzes elephant at scale
+doc410	cherry process banana at scale
+doc411	cherry finds apple using python
+doc412	elephant analyzes data silently
+doc413	falcon targets data quickly
+doc414	banana eats falcon using python
+doc415	apple eats banana silently
+doc416	apple finds falcon silently
+doc417	apple process falcon using python
+doc418	falcon process falcon at scale
+doc419	falcon eats falcon silently
+doc420	elephant analyzes cherry using python
+doc421	elephant analyzes falcon in the cloud
+doc422	cherry finds elephant at scale
+doc423	elephant finds cherry at scale
+doc424	falcon eats banana in the cloud
+doc425	apple finds data at scale
+doc426	data process apple in the cloud
+doc427	data targets data in the cloud
+doc428	elephant process apple quickly
+doc429	cherry process banana in the cloud
+doc430	falcon analyzes apple silently
+doc431	apple process falcon silently
+doc432	falcon process data in the cloud
+doc433	apple eats apple quickly
+doc434	data process falcon silently
+doc435	falcon finds data using python
+doc436	elephant finds cherry silently
+doc437	apple analyzes apple using python
+doc438	falcon process data at scale
+doc439	elephant eats elephant using python
+doc440	cherry analyzes elephant at scale
+doc441	cherry targets data using python
+doc442	apple process data using python
+doc443	data analyzes falcon silently
+doc444	falcon process falcon at scale
+doc445	apple targets banana at scale
+doc446	apple eats apple quickly
+doc447	banana process banana quickly
+doc448	apple analyzes elephant using python
+doc449	apple process data quickly
+doc450	falcon finds falcon quickly
+doc451	cherry targets banana at scale
+doc452	data analyzes banana at scale
+doc453	falcon process data using python
+doc454	apple targets data quickly
+doc455	elephant process apple in the cloud
+doc456	cherry eats cherry at scale
+doc457	data process falcon quickly
+doc458	falcon eats banana using python
+doc459	elephant analyzes data quickly
+doc460	falcon analyzes cherry using python
+doc461	elephant process elephant at scale
+doc462	banana finds elephant silently
+doc463	cherry finds elephant at scale
+doc464	data targets banana using python
+doc465	apple analyzes cherry in the cloud
+doc466	data finds elephant silently
+doc467	cherry eats apple using python
+doc468	cherry finds cherry in the cloud
+doc469	banana analyzes elephant using python
+doc470	elephant process elephant at scale
+doc471	elephant targets cherry at scale
+doc472	data finds apple silently
+doc473	apple analyzes falcon at scale
+doc474	cherry targets elephant silently
+doc475	cherry eats falcon in the cloud
+doc476	cherry analyzes apple quickly
+doc477	banana analyzes banana silently
+doc478	banana targets data in the cloud
+doc479	cherry targets banana at scale
+doc480	elephant analyzes apple silently
+doc481	falcon targets elephant silently
+doc482	cherry process banana in the cloud
+doc483	elephant process falcon using python
+doc484	falcon analyzes banana quickly
+doc485	cherry finds falcon using python
+doc486	cherry finds falcon in the cloud
+doc487	data targets elephant quickly
+doc488	falcon targets apple in the cloud
+doc489	cherry eats data using python
+doc490	elephant analyzes data silently
+doc491	cherry eats elephant silently
+doc492	elephant eats apple at scale
+doc493	banana process data in the cloud
+doc494	elephant process banana in the cloud
+doc495	banana analyzes falcon quickly
+doc496	banana eats falcon in the cloud
+doc497	banana process cherry using python
+doc498	falcon analyzes elephant in the cloud
+doc499	banana process banana silently
+doc500	falcon targets elephant quickly
+doc501	falcon analyzes data in the cloud
+doc502	banana targets falcon at scale
+doc503	data process elephant silently
+doc504	data eats falcon in the cloud
+doc505	falcon eats elephant quickly
+doc506	apple finds data in the cloud
+doc507	data analyzes elephant at scale
+doc508	falcon analyzes elephant using python
+doc509	banana targets data in the cloud
+doc510	banana analyzes apple quickly
+doc511	banana analyzes cherry using python
+doc512	falcon targets apple at scale
+doc513	apple finds cherry in the cloud
+doc514	falcon analyzes falcon quickly
+doc515	apple analyzes apple using python
+doc516	banana analyzes apple at scale
+doc517	cherry process apple at scale
+doc518	falcon eats cherry quickly
+doc519	cherry process banana at scale
+doc520	data eats apple in the cloud
+doc521	data process data silently
+doc522	apple eats falcon using python
+doc523	falcon analyzes falcon at scale
+doc524	data process banana at scale
+doc525	data analyzes elephant using python
+doc526	falcon finds falcon quickly
+doc527	data eats apple silently
+doc528	cherry eats apple using python
+doc529	falcon process apple using python
+doc530	elephant targets apple silently
+doc531	cherry process data silently
+doc532	data eats cherry using python
+doc533	apple targets banana using python
+doc534	apple targets elephant silently
+doc535	cherry analyzes banana in the cloud
+doc536	data targets banana quickly
+doc537	cherry process cherry silently
+doc538	banana analyzes data silently
+doc539	data process data using python
+doc540	elephant finds falcon in the cloud
+doc541	falcon finds cherry quickly
+doc542	data analyzes elephant quickly
+doc543	cherry analyzes cherry quickly
+doc544	cherry process elephant at scale
+doc545	falcon targets cherry at scale
+doc546	banana finds banana using python
+doc547	apple finds elephant using python
+doc548	cherry finds banana at scale
+doc549	cherry eats apple quickly
+doc550	elephant targets falcon silently
+doc551	elephant process elephant quickly
+doc552	cherry finds elephant using python
+doc553	banana process banana silently
+doc554	elephant targets elephant at scale
+doc555	cherry eats data in the cloud
+doc556	banana finds cherry quickly
+doc557	banana eats apple quickly
+doc558	elephant targets banana at scale
+doc559	falcon process cherry using python
+doc560	elephant finds cherry using python
+doc561	banana analyzes elephant in the cloud
+doc562	elephant analyzes data at scale
+doc563	elephant targets banana quickly
+doc564	cherry targets elephant silently
+doc565	elephant analyzes cherry quickly
+doc566	falcon analyzes banana silently
+doc567	apple targets elephant in the cloud
+doc568	falcon finds apple in the cloud
+doc569	data process apple at scale
+doc570	apple eats falcon in the cloud
+doc571	elephant analyzes falcon quickly
+doc572	elephant finds data quickly
+doc573	data process banana silently
+doc574	cherry eats data at scale
+doc575	data finds cherry in the cloud
+doc576	apple process apple at scale
+doc577	elephant targets apple using python
+doc578	banana finds banana quickly
+doc579	banana targets apple quickly
+doc580	banana process banana using python
+doc581	apple finds banana in the cloud
+doc582	falcon targets data quickly
+doc583	apple finds elephant in the cloud
+doc584	falcon analyzes data silently
+doc585	data eats data in the cloud
+doc586	apple finds elephant at scale
+doc587	elephant eats banana in the cloud
+doc588	elephant analyzes data using python
+doc589	data analyzes falcon silently
+doc590	cherry targets elephant quickly
+doc591	falcon process falcon quickly
+doc592	apple process apple in the cloud
+doc593	apple eats data quickly
+doc594	data finds banana quickly
+doc595	cherry targets banana silently
+doc596	cherry finds falcon silently
+doc597	cherry eats data in the cloud
+doc598	falcon eats cherry silently
+doc599	elephant analyzes elephant quickly
+doc600	falcon targets data in the cloud
+doc601	elephant finds elephant using python
+doc602	data process falcon silently
+doc603	falcon finds apple at scale
+doc604	apple finds falcon at scale
+doc605	falcon eats banana at scale
+doc606	data finds apple in the cloud
+doc607	falcon targets cherry using python
+doc608	apple eats banana quickly
+doc609	apple targets falcon quickly
+doc610	data targets falcon using python
+doc611	banana finds falcon in the cloud
+doc612	banana analyzes elephant using python
+doc613	banana analyzes falcon silently
+doc614	banana analyzes banana quickly
+doc615	cherry finds banana quickly
+doc616	elephant process data in the cloud
+doc617	cherry process banana using python
+doc618	falcon targets elephant at scale
+doc619	banana process banana in the cloud
+doc620	apple finds banana in the cloud
+doc621	apple eats elephant in the cloud
+doc622	banana finds falcon in the cloud
+doc623	banana finds banana quickly
+doc624	falcon eats elephant in the cloud
+doc625	data targets elephant at scale
+doc626	elephant eats apple using python
+doc627	banana analyzes elephant silently
+doc628	cherry finds data at scale
+doc629	falcon analyzes banana quickly
+doc630	banana analyzes banana in the cloud
+doc631	elephant analyzes apple in the cloud
+doc632	cherry eats elephant in the cloud
+doc633	data targets data using python
+doc634	falcon process apple silently
+doc635	falcon targets data at scale
+doc636	banana process data using python
+doc637	apple eats falcon using python
+doc638	banana process falcon using python
+doc639	elephant analyzes apple at scale
+doc640	cherry eats cherry quickly
+doc641	cherry process data silently
+doc642	banana finds falcon in the cloud
+doc643	falcon analyzes data in the cloud
+doc644	data finds cherry at scale
+doc645	banana analyzes banana in the cloud
+doc646	banana process apple using python
+doc647	elephant finds data using python
+doc648	banana analyzes elephant quickly
+doc649	data finds data silently
+doc650	elephant targets falcon silently
+doc651	apple finds falcon at scale
+doc652	cherry targets elephant in the cloud
+doc653	data finds data at scale
+doc654	apple finds apple in the cloud
+doc655	data finds elephant using python
+doc656	elephant targets cherry silently
+doc657	cherry targets data at scale
+doc658	elephant targets elephant silently
+doc659	banana eats cherry quickly
+doc660	falcon analyzes apple in the cloud
+doc661	falcon analyzes falcon quickly
+doc662	banana analyzes apple silently
+doc663	falcon eats banana in the cloud
+doc664	elephant analyzes cherry silently
+doc665	banana finds cherry using python
+doc666	elephant finds falcon using python
+doc667	elephant targets falcon silently
+doc668	apple eats banana silently
+doc669	data eats elephant quickly
+doc670	apple targets elephant quickly
+doc671	elephant finds elephant at scale
+doc672	data targets elephant using python
+doc673	data finds data quickly
+doc674	data analyzes elephant using python
+doc675	cherry process data in the cloud
+doc676	apple targets data in the cloud
+doc677	banana analyzes elephant quickly
+doc678	apple finds elephant silently
+doc679	banana finds banana at scale
+doc680	cherry eats cherry at scale
+doc681	data eats apple in the cloud
+doc682	cherry analyzes banana at scale
+doc683	elephant analyzes banana using python
+doc684	banana targets cherry at scale
+doc685	apple finds data at scale
+doc686	cherry finds cherry using python
+doc687	apple analyzes cherry in the cloud
+doc688	data targets cherry in the cloud
+doc689	data targets apple at scale
+doc690	elephant process cherry silently
+doc691	falcon process falcon silently
+doc692	falcon finds cherry in the cloud
+doc693	cherry finds cherry quickly
+doc694	falcon targets cherry in the cloud
+doc695	falcon finds banana quickly
+doc696	banana process banana in the cloud
+doc697	data eats cherry silently
+doc698	cherry finds falcon at scale
+doc699	banana targets banana in the cloud
+doc700	data targets banana quickly
+doc701	elephant process elephant in the cloud
+doc702	data eats apple quickly
+doc703	falcon process apple silently
+doc704	falcon finds apple using python
+doc705	cherry analyzes falcon silently
+doc706	data targets apple quickly
+doc707	banana targets elephant silently
+doc708	banana process elephant silently
+doc709	falcon targets cherry using python
+doc710	banana eats banana using python
+doc711	cherry targets banana at scale
+doc712	apple analyzes elephant in the cloud
+doc713	falcon analyzes cherry quickly
+doc714	falcon process cherry in the cloud
+doc715	banana analyzes falcon using python
+doc716	data finds banana quickly
+doc717	cherry targets data at scale
+doc718	elephant finds data at scale
+doc719	cherry process falcon at scale
+doc720	elephant eats banana silently
+doc721	elephant targets cherry silently
+doc722	falcon targets elephant in the cloud
+doc723	falcon eats cherry at scale
+doc724	cherry process banana quickly
+doc725	cherry process banana at scale
+doc726	banana eats elephant using python
+doc727	apple process banana in the cloud
+doc728	elephant targets banana using python
+doc729	data targets data quickly
+doc730	falcon finds data in the cloud
+doc731	banana targets cherry silently
+doc732	falcon finds falcon at scale
+doc733	banana process banana silently
+doc734	falcon process cherry in the cloud
+doc735	banana analyzes falcon quickly
+doc736	elephant eats falcon using python
+doc737	falcon analyzes banana quickly
+doc738	elephant process cherry silently
+doc739	data analyzes elephant using python
+doc740	data targets data quickly
+doc741	apple eats data quickly
+doc742	data process data silently
+doc743	apple analyzes apple at scale
+doc744	elephant finds falcon at scale
+doc745	apple analyzes data using python
+doc746	apple eats elephant at scale
+doc747	banana process elephant at scale
+doc748	banana targets falcon quickly
+doc749	banana eats falcon quickly
+doc750	apple eats apple quickly
+doc751	banana analyzes banana in the cloud
+doc752	falcon eats cherry silently
+doc753	data targets banana quickly
+doc754	data analyzes apple at scale
+doc755	data finds elephant silently
+doc756	apple eats falcon quickly
+doc757	data process banana quickly
+doc758	banana analyzes data using python
+doc759	elephant finds falcon quickly
+doc760	elephant targets apple in the cloud
+doc761	falcon finds data in the cloud
+doc762	data eats falcon using python
+doc763	elephant process cherry quickly
+doc764	data analyzes falcon in the cloud
+doc765	falcon eats data in the cloud
+doc766	falcon process elephant quickly
+doc767	cherry analyzes apple using python
+doc768	cherry process elephant using python
+doc769	falcon finds apple in the cloud
+doc770	apple eats data at scale
+doc771	data analyzes data at scale
+doc772	banana eats apple in the cloud
+doc773	falcon process cherry quickly
+doc774	cherry finds cherry in the cloud
+doc775	cherry finds elephant using python
+doc776	elephant analyzes cherry using python
+doc777	data finds data using python
+doc778	elephant finds apple silently
+doc779	banana eats banana at scale
+doc780	apple process data at scale
+doc781	apple eats cherry silently
+doc782	falcon targets data using python
+doc783	falcon targets falcon at scale
+doc784	cherry analyzes data quickly
+doc785	data process elephant silently
+doc786	banana process falcon at scale
+doc787	falcon process cherry in the cloud
+doc788	falcon process falcon at scale
+doc789	apple analyzes banana using python
+doc790	elephant finds data using python
+doc791	falcon analyzes falcon silently
+doc792	banana finds cherry quickly
+doc793	falcon analyzes banana using python
+doc794	data finds banana in the cloud
+doc795	cherry analyzes elephant using python
+doc796	banana process apple using python
+doc797	cherry finds falcon quickly
+doc798	elephant process elephant at scale
+doc799	elephant analyzes apple in the cloud
+doc800	elephant eats elephant in the cloud
+doc801	data eats cherry at scale
+doc802	falcon eats elephant at scale
+doc803	cherry finds data silently
+doc804	elephant finds banana silently
+doc805	banana process apple in the cloud
+doc806	cherry targets elephant using python
+doc807	elephant targets banana silently
+doc808	cherry process elephant at scale
+doc809	data analyzes banana using python
+doc810	falcon finds apple silently
+doc811	data targets banana at scale
+doc812	banana process falcon silently
+doc813	elephant finds apple in the cloud
+doc814	falcon targets data quickly
+doc815	falcon eats apple at scale
+doc816	falcon analyzes cherry silently
+doc817	cherry process apple silently
+doc818	apple process cherry using python
+doc819	cherry eats banana quickly
+doc820	apple analyzes cherry quickly
+doc821	elephant eats data using python
+doc822	data eats apple silently
+doc823	cherry eats falcon quickly
+doc824	data finds data silently
+doc825	elephant targets banana at scale
+doc826	falcon eats falcon at scale
+doc827	cherry eats elephant in the cloud
+doc828	apple targets data silently
+doc829	elephant finds falcon at scale
+doc830	falcon eats banana quickly
+doc831	cherry eats data in the cloud
+doc832	cherry analyzes cherry in the cloud
+doc833	falcon eats falcon silently
+doc834	data finds elephant at scale
+doc835	cherry finds data in the cloud
+doc836	elephant targets banana in the cloud
+doc837	cherry finds elephant using python
+doc838	data process apple using python
+doc839	banana targets elephant quickly
+doc840	falcon targets apple silently
+doc841	data finds falcon using python
+doc842	cherry process cherry using python
+doc843	elephant analyzes apple using python
+doc844	elephant eats elephant silently
+doc845	cherry eats apple in the cloud
+doc846	falcon targets banana in the cloud
+doc847	data process data at scale
+doc848	elephant targets banana quickly
+doc849	elephant eats apple using python
+doc850	falcon targets data silently
+doc851	cherry analyzes falcon quickly
+doc852	falcon eats data silently
+doc853	banana targets apple using python
+doc854	data targets banana using python
+doc855	apple analyzes apple at scale
+doc856	falcon eats falcon quickly
+doc857	apple process data in the cloud
+doc858	data targets elephant silently
+doc859	elephant eats data silently
+doc860	apple finds data using python
+doc861	data finds apple using python
+doc862	falcon analyzes cherry in the cloud
+doc863	banana eats banana in the cloud
+doc864	cherry process data quickly
+doc865	data targets banana at scale
+doc866	cherry targets banana quickly
+doc867	elephant eats cherry using python
+doc868	apple finds cherry in the cloud
+doc869	cherry targets elephant at scale
+doc870	banana targets apple using python
+doc871	data eats elephant in the cloud
+doc872	cherry targets falcon in the cloud
+doc873	cherry eats elephant using python
+doc874	falcon process banana at scale
+doc875	elephant finds data using python
+doc876	falcon process cherry using python
+doc877	falcon finds falcon silently
+doc878	falcon finds falcon in the cloud
+doc879	data finds data quickly
+doc880	banana finds cherry silently
+doc881	cherry targets falcon quickly
+doc882	cherry targets data using python
+doc883	elephant analyzes banana in the cloud
+doc884	falcon finds elephant in the cloud
+doc885	falcon analyzes falcon in the cloud
+doc886	banana finds apple at scale
+doc887	banana eats elephant in the cloud
+doc888	apple process data at scale
+doc889	falcon eats cherry silently
+doc890	apple analyzes elephant using python
+doc891	elephant targets falcon silently
+doc892	falcon targets cherry using python
+doc893	cherry process elephant using python
+doc894	cherry process cherry in the cloud
+doc895	data targets elephant using python
+doc896	cherry eats elephant silently
+doc897	elephant targets falcon at scale
+doc898	data finds banana quickly
+doc899	banana analyzes elephant at scale
+doc900	elephant eats apple silently
+doc901	apple analyzes cherry quickly
+doc902	cherry analyzes data silently
+doc903	elephant eats data silently
+doc904	cherry process banana quickly
+doc905	falcon finds banana using python
+doc906	falcon analyzes cherry at scale
+doc907	falcon finds apple in the cloud
+doc908	banana analyzes data in the cloud
+doc909	banana eats cherry in the cloud
+doc910	cherry process cherry silently
+doc911	falcon finds cherry using python
+doc912	falcon process falcon using python
+doc913	cherry eats elephant at scale
+doc914	data targets apple using python
+doc915	cherry process apple using python
+doc916	elephant eats banana using python
+doc917	elephant process data in the cloud
+doc918	data analyzes elephant silently
+doc919	data targets elephant quickly
+doc920	data finds data in the cloud
+doc921	data targets apple at scale
+doc922	banana finds falcon at scale
+doc923	elephant process falcon quickly
+doc924	banana targets banana using python
+doc925	banana eats apple using python
+doc926	apple targets apple using python
+doc927	cherry eats falcon quickly
+doc928	data finds cherry using python
+doc929	data targets data using python
+doc930	falcon analyzes elephant quickly
+doc931	apple analyzes apple silently
+doc932	banana targets apple at scale
+doc933	falcon finds falcon in the cloud
+doc934	banana targets cherry silently
+doc935	cherry eats apple quickly
+doc936	banana analyzes elephant quickly
+doc937	data targets apple silently
+doc938	banana eats cherry quickly
+doc939	falcon eats cherry quickly
+doc940	elephant eats data in the cloud
+doc941	elephant process banana in the cloud
+doc942	apple eats banana quickly
+doc943	cherry eats banana using python
+doc944	banana finds data silently
+doc945	apple eats elephant at scale
+doc946	banana targets apple in the cloud
+doc947	data eats cherry silently
+doc948	elephant process cherry at scale
+doc949	cherry analyzes data silently
+doc950	data process apple silently
+doc951	data process falcon in the cloud
+doc952	falcon eats apple using python
+doc953	falcon analyzes data in the cloud
+doc954	cherry process apple quickly
+doc955	apple analyzes apple in the cloud
+doc956	apple analyzes apple silently
+doc957	elephant analyzes banana using python
+doc958	elephant analyzes elephant in the cloud
+doc959	cherry process falcon at scale
+doc960	data process falcon using python
+doc961	elephant eats elephant using python
+doc962	cherry eats banana silently
+doc963	cherry process banana using python
+doc964	elephant process data quickly
+doc965	elephant targets apple in the cloud
+doc966	banana process data quickly
+doc967	banana process data in the cloud
+doc968	data analyzes falcon at scale
+doc969	elephant process data silently
+doc970	banana process elephant silently
+doc971	banana targets apple quickly
+doc972	apple finds falcon in the cloud
+doc973	apple process cherry silently
+doc974	elephant process elephant in the cloud
+doc975	data analyzes falcon using python
+doc976	banana eats banana using python
+doc977	cherry analyzes elephant silently
+doc978	falcon process cherry using python
+doc979	data finds falcon using python
+doc980	data analyzes elephant silently
+doc981	falcon targets falcon in the cloud
+doc982	data finds cherry silently
+doc983	data finds elephant quickly
+doc984	cherry eats elephant silently
+doc985	banana process banana at scale
+doc986	banana process apple quickly
+doc987	falcon analyzes elephant using python
+doc988	elephant eats cherry at scale
+doc989	elephant analyzes falcon silently
+doc990	cherry finds cherry silently
+doc991	elephant finds data at scale
+doc992	elephant process banana silently
+doc993	elephant analyzes cherry silently
+doc994	falcon process banana quickly
+doc995	cherry analyzes cherry in the cloud
+doc996	apple eats falcon silently
+doc997	apple eats data quickly
+doc998	falcon eats data in the cloud
+doc999	banana process falcon silently
+doc1000	cherry finds banana in the cloud
