@@ -69,11 +69,13 @@ def run_map_reduce(input_path, output_path):
     num_docs = manager.Value("i", 0) # Fixed typecode to 'i' for integer
     dict_lock = manager.Lock()
     file_lock = manager.Lock()
+    page_count_lock = manager.Lock()
+    queue_lock = manager.Lock()
 
     # Open the input file
     with open(input_path, "rb", buffering=0) as f:
         # Start Reducers
-        Reducers = [Process(target=reduce, args=(reduce_queue, doc_freq, num_docs, dict_lock)) 
+        Reducers = [Process(target=reduce, args=(reduce_queue, doc_freq, num_docs, dict_lock,page_count_lock,queue_lock)) 
                     for _ in range(Reducer_count)]
         for r in Reducers: r.start()
 
