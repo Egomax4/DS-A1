@@ -3,8 +3,8 @@ from mapper import map,tokenize
 from reducer import reduce,d
 from math import log
 
-Mapper_count = 7
-Reducer_count = 3
+Mapper_count = 6
+Reducer_count = 2
 
 f = open("testcases.txt")
 Nodes = f.readlines()
