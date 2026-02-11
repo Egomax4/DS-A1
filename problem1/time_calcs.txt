@@ -1,0 +1,4 @@
+Initialization: 0.0758s
+Mapper Time: 14.3165s
+Reducer/Shuffle Time: 16.0065s
+Total Time: 16.0905s
