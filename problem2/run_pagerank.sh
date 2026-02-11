@@ -14,7 +14,8 @@ echo "Starting Page Rank Job..."
 echo "Input: $INPUT_FILE | Output: $OUTPUT_FILE"
 
 # Run the python script
-python3 main.py "$INPUT_FILE" "$OUTPUT_FILE"
+# python3 main.py "$INPUT_FILE" "$OUTPUT_FILE"
+python3 time_test.py "$INPUT_FILE" "$OUTPUT_FILE"
 
 if [ $? -eq 0 ]; then
     echo "Job Completed Successfully."

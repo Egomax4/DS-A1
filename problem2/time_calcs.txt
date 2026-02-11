@@ -1,0 +1,63 @@
+Global Initialization: 0.1206s
+Epoch: 1
+Read time: 0.0006478s
+Write time: 0.0498s
+Init time: 0.1206s
+Total time: 0.4363s
+
+Epoch: 2
+Read time: 0.0004356s
+Write time: 0.04107s
+Init time: 0.1206s
+Total time: 0.4394s
+
+Epoch: 3
+Read time: 0.0001025s
+Write time: 0.05267s
+Init time: 0.1206s
+Total time: 0.4811s
+
+Epoch: 4
+Read time: 0.0001445s
+Write time: 0.046s
+Init time: 0.1206s
+Total time: 0.5104s
+
+Epoch: 5
+Read time: 0.0001297s
+Write time: 0.0375s
+Init time: 0.1206s
+Total time: 0.5143s
+
+Epoch: 6
+Read time: 0.0001245s
+Write time: 0.0411s
+Init time: 0.1206s
+Total time: 0.5535s
+
+Epoch: 7
+Read time: 0.0001874s
+Write time: 0.03889s
+Init time: 0.1206s
+Total time: 0.6095s
+
+Epoch: 8
+Read time: 0.0001245s
+Write time: 0.04117s
+Init time: 0.1206s
+Total time: 0.6263s
+
+Epoch: 9
+Read time: 0.0001252s
+Write time: 0.04772s
+Init time: 0.1206s
+Total time: 0.5782s
+
+Epoch: 10
+Read time: 0.0001264s
+Write time: 0.04464s
+Init time: 0.1206s
+Total time: 0.4517s
+
+Total time: 5.2007105350494385
+Average Time: 0.5200710535049439
